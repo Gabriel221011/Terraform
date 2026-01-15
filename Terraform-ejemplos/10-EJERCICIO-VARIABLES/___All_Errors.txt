@@ -1,0 +1,7 @@
+CorrelationId: 9ae403b9-5b2d-4ac1-b5ce-62b247c01b98
+UTC DateTime: 01/15/2026 08:42:37
+
+The following files/folders have not been downloaded
+0. 10-EJERCICIO-VARIABLES/NOTOCAR-main.tf
+1. 10-EJERCICIO-VARIABLES/NOTOCAR-outputs.tf
+2. 10-EJERCICIO-VARIABLES/PARAMODIFICAR-variables.tf
